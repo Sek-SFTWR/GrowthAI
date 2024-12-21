@@ -1,0 +1,25 @@
+# Ignore virtual environments
+venv/
+.env/
+# Or any other folder used for the virtual environment, for example:
+# .flaskenv
+
+# Ignore Python bytecode files
+*.pyc
+*.pyo
+__pycache__/
+
+# Ignore Node modules (if using Node.js for front-end, etc.)
+node_modules/
+
+# Ignore log files
+*.log
+
+# Ignore system-specific files
+.DS_Store          # macOS
+Thumbs.db          # Windows
+
+# Ignore IDE settings
+.vscode/           # VS Code settings
+.idea/             # IntelliJ IDEA settings
+*.iml              # IntelliJ IDEA project files
