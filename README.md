@@ -25,9 +25,5 @@ The primary goal of this system is to predict a student's future academic perfor
 3. **Prediction**: Once the model is trained, it can be deployed on a Flask server. The user enters relevant student data, and the system predicts the student's future grade.
 4. **Evaluation**: Model performance is evaluated using standard metrics like accuracy, precision, and recall.
 
-## Setup Instructions
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/student-grade-prediction.git
-   cd student-grade-prediction
+
 
